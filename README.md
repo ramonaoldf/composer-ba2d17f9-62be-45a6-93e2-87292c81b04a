@@ -1,4 +1,6 @@
-<p align="center"><img src="/art/readme.png" alt="Logo Laravel Forge CLI" style="width:70%;"></p>
+<p align="center">
+    <img src="/art/readme.png" alt="Logo Laravel Forge CLI preview" style="width:70%;">
+</p>
 
 <p align="center">
 <a href="https://github.com/laravel/forge-cli/actions"><img src="https://github.com/laravel/forge-cli/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -17,7 +19,7 @@ In addition, Forge can assist you in managing scheduled jobs, queue workers, SSL
 
 This repository contains the CLI client for interacting with Laravel Forge. To learn more about Forge and how to use this client, please consult the **[official documentation](https://forge.laravel.com/docs)**.
 
-## Usage
+## Official Documentation
 
 > **Requires [PHP 7.3+](https://php.net/releases/)**
 
@@ -202,6 +204,14 @@ As you may know, all Laravel applications include "Tinker" by default. To enter 
 forge tinker
 forge tinker example.com
 ```
+
+## Contributing
+
+Thank you for considering contributing to Forge CLI! You can read the contribution guide [here](.github/CONTRIBUTING.md).
+
+## Code of Conduct
+
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
 ## Security Vulnerabilities
 
